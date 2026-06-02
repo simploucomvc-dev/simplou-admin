@@ -26,7 +26,7 @@ export default function LoginPage() {
     }
 
     // Auth state change will update profile; redirect handled by AdminRoute
-    navigate("/admin/usuarios");
+    navigate("/admin/metricas");
   };
 
   return (
